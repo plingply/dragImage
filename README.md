@@ -1,5 +1,5 @@
 # dragImage
-## 1.安装node，官网下载
+## 1.安装node6.0，官网下载
 ## 2.安装ImageMagick：安装完成需要把安装目录中的运行程序改成ImageMagick（请在官网上下载ImageMagick-7.0.2-10-Q16-x64-dll此版本）
 下载url:http://www.imagemagick.org/download/binaries/ImageMagick-7.0.3-4-Q16-x64-dll.exe
 ## 3.打开CMD CD到文件跟目录，运行npm install 安装依赖。
